@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "AlphaWorks",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/1/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/2/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/3/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/4/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/5/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/6/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/7/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/8/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/9/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/10/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/11/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/12/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/13/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/14/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/15/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/16/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/17/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/18/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/19/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/20/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/21/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/22/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/23/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/24/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/25/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/26/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/27/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/28/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/29/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/30/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/31/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/32/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/33/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/34/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/35/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/36/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/37/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/38/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/39/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/40/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/41/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/42/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/43/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/44/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/45/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/46/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/47/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/48/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/49/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/50/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/51/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/52/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/53/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/54/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/55/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/56/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/57/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/58/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/59/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/60/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/61/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/62/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/63/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/64/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/65/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/66/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/67/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/68/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/69/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/70/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/71/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/72/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/73/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/74/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/75/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/76/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/77/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/78/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/79/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/80/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/81/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/82/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/83/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/84/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/85/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/86/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/87/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/88/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/89/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/90/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/91/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/92/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/93/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/94/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/95/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/96/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/97/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/98/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/99/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/100/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/101/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/102/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/103/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/104/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/105/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/106/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/107/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/108/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/109/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/110/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/111/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/112/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/113/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/114/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/115/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/116/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/117/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/118/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/119/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/120/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/121/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/122/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/123/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/124/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/125/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/126/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/127/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/128/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/129/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/130/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/131/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/132/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/133/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/134/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/135/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/136/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/137/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/138/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/139/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/140/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/141/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/142/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/143/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/144/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/145/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/146/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/147/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/148/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/149/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/150/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/151/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/152/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/153/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/154/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/155/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/156/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/157/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/158/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/159/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/160/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/161/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/162/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/163/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/164/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/165/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/166/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/167/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/168/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/169/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/170/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/171/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/172/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/173/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/174/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/175/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/176/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/177/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/178/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/179/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/180/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/181/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/182/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/183/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/184/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/185/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/186/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/187/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/188/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/189/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/190/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/191/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/192/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/193/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/194/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/195/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/196/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/197/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/198/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/199/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/200/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/201/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/202/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/203/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/204/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/205/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/206/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/207/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/208/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/209/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/210/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/211/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/212/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/213/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/214/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/215/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/216/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/217/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/218/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/219/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/220/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/221/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/222/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/223/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/224/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/225/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/226/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/227/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/228/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/229/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/230/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/231/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/232/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/233/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/234/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/235/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/236/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/237/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/238/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/239/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/240/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/241/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/242/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/243/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/244/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/245/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/246/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/247/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/248/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/249/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/250/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/251/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/252/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/253/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/254/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/255/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/256/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/257/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/258/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/259/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/260/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/261/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/262/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/263/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/264/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/265/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/266/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/267/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/268/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/269/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/270/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/271/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/272/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/273/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/274/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/275/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/276/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/277/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/278/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/279/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/280/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/281/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/282/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/283/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/284/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/285/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/286/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/287/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/288/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/289/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/290/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/291/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/292/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/293/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/294/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/295/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/296/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/297/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/298/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/299/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/300/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/301/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/302/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/303/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/304/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/305/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/306/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/307/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/308/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/309/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/310/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/311/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/312/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/313/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/314/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/315/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/316/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/317/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/318/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/319/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/320/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/321/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/322/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/323/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/324/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/325/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/326/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/327/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/328/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/329/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/330/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/331/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/332/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/333/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/334/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/335/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/336/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/337/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/338/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/339/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/340/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/341/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/342/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/343/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/344/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/345/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/346/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/347/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/348/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/349/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/350/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/351/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/352/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/353/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/354/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/355/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/356/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/357/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/358/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/359/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/360/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/361/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/362/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/363/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/364/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/365/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/366/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/367/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/368/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/369/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/370/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/371/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/372/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/373/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/374/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/375/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/376/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/377/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/378/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/379/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/380/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/381/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/382/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/383/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/384/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/385/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/386/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/387/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/388/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/389/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/390/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/391/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/392/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/393/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/394/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/395/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/396/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/397/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/398/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/399/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/400/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/401/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/402/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/403/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/404/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/405/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/406/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/407/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/408/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/409/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/410/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/411/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/412/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/413/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/414/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/415/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/416/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/417/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/418/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/419/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/420/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/421/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/422/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/423/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/424/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/425/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/426/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/427/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/428/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/429/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/430/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/431/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/432/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/433/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/434/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/435/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/436/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/437/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/438/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/439/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/440/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/441/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/442/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/443/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/444/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/445/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/446/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/447/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/448/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/449/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/450/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/451/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/452/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/453/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/454/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/455/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/456/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/457/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/458/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/459/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Face-to-face 24hour knowledgebase",
+    "image_url": "https://picsum.photos/seed/460/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/461/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/462/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/463/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/464/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/465/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/466/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/467/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/468/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/469/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/470/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/471/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/472/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/473/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/474/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/475/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/476/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/477/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/478/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/479/200"
+  },
+  {
+    "name": "Guzman, Burke and Hall",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/480/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/481/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/482/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Seamless next-gen innovation",
+    "image_url": "https://picsum.photos/seed/483/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/484/200"
+  },
+  {
+    "name": "GlobalTech",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/485/200"
+  },
+  {
+    "name": "CyberSoft",
+    "tagline": "Full-stack automated orchestration",
+    "image_url": "https://picsum.photos/seed/486/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/487/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/488/200"
+  },
+  {
+    "name": "BrightPath Corp",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/489/200"
+  },
+  {
+    "name": "Anderson Group",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/490/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "Cutting-edge modular systems",
+    "image_url": "https://picsum.photos/seed/491/200"
+  },
+  {
+    "name": "AlphaWorks",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/492/200"
+  },
+  {
+    "name": "SkyHigh Solutions",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/493/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Cross-platform agile workflows",
+    "image_url": "https://picsum.photos/seed/494/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/495/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "User-centric digital transformation",
+    "image_url": "https://picsum.photos/seed/496/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "Cloud-native microservice platform",
+    "image_url": "https://picsum.photos/seed/497/200"
+  },
+  {
+    "name": "Smith LLC",
+    "tagline": "Decentralized blockchain enablement",
+    "image_url": "https://picsum.photos/seed/498/200"
+  },
+  {
+    "name": "NextWave Inc",
+    "tagline": "AI-powered dynamic support",
+    "image_url": "https://picsum.photos/seed/499/200"
+  },
+  {
+    "name": "BlueOcean Ltd",
+    "tagline": "Real-time scalable infrastructure",
+    "image_url": "https://picsum.photos/seed/500/200"
+  }
+]
